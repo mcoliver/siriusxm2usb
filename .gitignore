@@ -1,0 +1,9 @@
+*.pyc
+json
+logs
+*~
+.DS_Store
+._DS_Store
+dev/
+dbcreds.json
+sirius-*

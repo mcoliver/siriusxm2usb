@@ -1,0 +1,4 @@
+ytmusicapi
+yt-dlp
+colorama
+requests
